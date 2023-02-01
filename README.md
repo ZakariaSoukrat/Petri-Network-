@@ -15,13 +15,7 @@ To use:
 
 You may experiment some unexpected exceptions. Especially if you mix models.
 
-The pedagogical approach consists in:
-
-1. Develop your own PetriNet model in an independent project/environment - with no GUI, just the ''business'' view
-2. Pack it as a jar, and let it be visible in the path
-3. Develop an Adapter in the org.pneditor.petrinet.adapters folder of PNE to make your model editable
-
-The adapter may be simple or complex depending on the "distance" between your model and the one expected by PNE.
+this project contains a model of petriNet developed by Zakaria Soukrat & Azhar Elboughazaoui
 
 Code license: [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
 
