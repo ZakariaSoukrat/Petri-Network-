@@ -15,7 +15,7 @@ To use:
 
 You may experiment some unexpected exceptions. Especially if you mix models.
 
-this project contains a model of petriNet developed by Zakaria Soukrat & Azhar Elboughazaoui
+this project contains a model of petriNet developed by Zakaria Soukrat & Azhar Elbaghazaoui
 
 Code license: [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
 
